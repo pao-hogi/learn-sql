@@ -1,0 +1,9 @@
+--1.Devuelve todas las películas 
+--SELECT MOVIE_NAME FROM MOVIES
+--2.Devuelve todos los géneros existentes
+--SELECT GENRE_NAME FROM GENRES
+--3. Devuelve la lista de todos los estudios de grabación que estén activos
+--SELECT STUDIO_ACTIVE FROM STUDIOS WHERE STUDIO_ACTIVE = 1
+--SELECT STUDIO_NAME FROM STUDIOS WHERE STUDIO_ACTIVE = 1
+--4. Devuelve una lista de los 20 últimos miembros en anotarse a la plataforma
+--SELECT * FROM USERS ORDER BY "USER_ID" DESC
